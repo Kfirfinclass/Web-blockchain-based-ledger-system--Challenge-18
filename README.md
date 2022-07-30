@@ -33,7 +33,7 @@ Enter details into the Sender ID, Receiver ID, Amount and click the 'Add Block' 
 
 ---
 
-## Validationn
+## Validation
 
 Once additional blocks have been addeed to the chain, clicking the 'Validate Chain' button will produce a True statement indicating the validity of the entire ledger.
 
